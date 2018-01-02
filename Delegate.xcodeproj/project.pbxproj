@@ -14,6 +14,7 @@
 		1D7475121FFB7D2E004B3D48 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1D7475111FFB7D2E004B3D48 /* Assets.xcassets */; };
 		1D7475151FFB7D2E004B3D48 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1D7475131FFB7D2E004B3D48 /* LaunchScreen.storyboard */; };
 		1D7475181FFB7D2E004B3D48 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D7475171FFB7D2E004B3D48 /* main.m */; };
+		1D7475201FFB80C4004B3D48 /* departmentsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D74751F1FFB80C4004B3D48 /* departmentsViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,8 @@
 		1D7475141FFB7D2E004B3D48 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1D7475161FFB7D2E004B3D48 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1D7475171FFB7D2E004B3D48 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		1D74751E1FFB80C4004B3D48 /* departmentsViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = departmentsViewController.h; sourceTree = "<group>"; };
+		1D74751F1FFB80C4004B3D48 /* departmentsViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = departmentsViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +67,8 @@
 				1D7475061FFB7D2E004B3D48 /* AppDelegate.m */,
 				1D7475081FFB7D2E004B3D48 /* ViewController.h */,
 				1D7475091FFB7D2E004B3D48 /* ViewController.m */,
+				1D74751E1FFB80C4004B3D48 /* departmentsViewController.h */,
+				1D74751F1FFB80C4004B3D48 /* departmentsViewController.m */,
 				1D74750B1FFB7D2E004B3D48 /* Main.storyboard */,
 				1D7475111FFB7D2E004B3D48 /* Assets.xcassets */,
 				1D7475131FFB7D2E004B3D48 /* LaunchScreen.storyboard */,
@@ -147,6 +152,7 @@
 			files = (
 				1D74750A1FFB7D2E004B3D48 /* ViewController.m in Sources */,
 				1D7475071FFB7D2E004B3D48 /* AppDelegate.m in Sources */,
+				1D7475201FFB80C4004B3D48 /* departmentsViewController.m in Sources */,
 				1D7475181FFB7D2E004B3D48 /* main.m in Sources */,
 				1D7475101FFB7D2E004B3D48 /* Delegate.xcdatamodeld in Sources */,
 			);

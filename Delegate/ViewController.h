@@ -7,9 +7,11 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "departmentsViewController.h"
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController<departmentsDelegate>
 
+@property (weak, nonatomic) IBOutlet UILabel *departMentLabel;
 
 @end
 
